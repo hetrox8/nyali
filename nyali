@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+
+
+    <title>Document</title>
+    <script src="">
+        document.write('<h2> welcome</h2>');
+        
+        
+            </script>
+</head>
+
+<body>
+
+ 
+
+
+       <h1> Nyali Youth development    </h1>
+
+<div class="container">
+
+
+<div class="item"> 
+                  <main>
+
+ 
+                        <nav>
+ 
+                               <ul>
+
+                               <li><a href="#">home</a></li>
+                               <li> <a href="#" target="_self">trainings</a> </li>
+                               <li><a href="#" target="_blank">student developer clubs</a> </li>
+
+                               </ul>
+
+                  
+                      </nav>
+<hr>
+                <section> 
+
+        <p > This is  an NGO initiated programme aimed to empower youths to become self-reliable persons in the near future. </p>
+        <p> Join us to access free learning resources to empower yourself. over 200 learning instructors , 30 student developer clubs for teamwork
+        .it could even get better. wondering where to start , we got you , with our Ai we can suggest what  course to embark with  accordance to 
+            your interest.
+        
+        </p>
+
+
+</section>
+
+ </main>
+
+
+
+
+<div class="form">   
+    
+        <form action="" name="form" method="post" onsubmit="return formValidation">
+
+            <label for="fname"> First name : <input type="text" name="fname" id="" required=""></label><br>
+            <br>
+
+            <label for="lname">last name : <input type="text" name="lname" id="" required=""></label><br>
+            <br>
+
+            <label for="email">Email address : <input type="email" name="email" id="" required=""></label><br>
+            <br>
+
+            <label for="tel"> Phone number : <input type="tel" name="Phone" id="" required=""></label><br>
+            <br>
+
+            <label for="pswd">Password : <input type="password" name="pswd" id="" required=""></label><br>
+            <br>
+
+            <label for="r-pswd">Re-enter password : <input type="password" name="r-pswd" id="" required=""></label><br>
+            <br>
+
+            <button type="button"> Sign up </button>
+        
+             
+
+                <p> OR</p>
+
+                <p> sign in using </p>
+       
+          <button type="button" id="google" onmouseover="mouse()"> google</button>
+           <button type="button" id="Microsoft"> Microsoft </button>
+
+            
+
+
+        </form>
+
+    </div>
+
+    </div>
+
+  <br>
+
+    <div class="item">
+
+        <table>
+    <thead> our courses</thead>
+
+    <tr>  
+        <td> networking</td>
+        <td> web development </td>
+        <td> digital marketing</td>
+        <td>personal development </td>
+    
+     </tr>
+
+     <tr>
+        <td> comptia A+</td>
+        <td> front-end development  </td>
+        <td> principles of SEO</td>
+        <td>  stress management</td>
+
+     </tr>
+
+        <tr>
+            <td> fundamentals of computer networking</td>
+            <td> back-end development</td>
+            <td>basics of Ecommerce </td>
+            <td> Effective communication</td>
+
+        </tr>
+
+
+     </tr>
+    </table>
+
+<section class="s2">
+<p> our mission is for you to be a self-reliable ,  responsible youth ,<b> because you can </b>.</p>
+<p></p>
+
+
+
+
+
+
+
+
+
+
+
+
+    <p >subscribe for our emails <input type="email"></p>  <button type="submit">submit</button>
+
+</section>
+
+
+
+
+
+    </div>
+<br>
+    <div class="item"> 
+
+        
+
+
+
+        &copy;all right reserved 2023. nyali mp . mohammed ali
+    </div>
+
+
+
+</div>
+    
+</body>
+</html>
